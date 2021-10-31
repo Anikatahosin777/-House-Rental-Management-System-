@@ -1,0 +1,61 @@
+Project: House Rental Management System using PHP/
+Team Members:
+1. Abul Kalam Azad      
+2. Shamim Hossain Shawon
+3. Anika Tahosin
+
+About
+The House Rental Management System is a simple PHP/MySQLi project that helps manages the records and payments of certain house rental businesses. This system stores the list of house categories/types, houses, tenants, 
+and monthly payments. The house type and house information will be used in identifying the tenant's rented house and monthly payable rate. This project is manageable only by the business management which is the system 
+admin or staff.
+
+Features
+---------------
+Login Page
+The page where the system admin or the staff will submit their system credentials to access the data and features of the house rental management system.
+
+Dashboard Page
+The page where the system user will be redirected by default when logging into the system. This page displays a summary of the total numbers of houses, tenants, and the total amount paid in the current month.
+
+House Type Page
+The page where all house categories or types are listed and managed.
+
+Houses Page
+The page where the system users will manage the list of rental houses.
+
+Tenants Page
+​​​​​​​The page that displays the list of active tenants. This is the page where can system user views the list of payments per tenants and manage the tenant's rental information.
+
+Payments Page
+​​​​​​​The page where can system admin or staff manage the payments of the tenants.
+
+Reports Page​​​​​​​
+​​​​​​​The page where can system users select or choose a certain report to view.
+
+Monthly Payment Report Page​​​​​​​
+​​​​​​​The page where the tenant's payments within the selected month are listed. The list on this page is ready to print.
+
+Rental Balances Report Page​​​​​​​
+​​​​​​​The page that displays the report of house rental balances/advances of the tenants. The list on this page is ready to print.
+
+User Page​​​​​​​
+​​​​​​​The page where the system admin manages the list of system users of the House Rental Management System.
+
+
+Project Materials
+-------------------------
+Database manager server : phpMyAdmin
+
+Programming language : PHP
+
+Databases : MySQLi
+
+JavaScript libraries : select2, DataTables, JQueryUI
+
+Font scripts : Google Font Api, Font Awesome
+
+Web servers : Apache
+
+JavaScript frameworks: Bootstraps, JQuery UI
+
+webload dynamically: ajax
